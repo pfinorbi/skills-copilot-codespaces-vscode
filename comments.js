@@ -1,4 +1,4 @@
-// Create a web server
+// Create web server
 // 1. Load the http module
 // 2. Create a web server
 // 3. Set the port
